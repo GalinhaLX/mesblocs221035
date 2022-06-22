@@ -1,14 +1,14 @@
 {
 	"blocs": [
 		{
-			"type": "a",
+			"ref": "a",
 			"category": "attract",
 			"cat_title": "titre",
 			"cat_description": "une image qui occupe entièrement l'écran, pour une visibilité maximale",
 			"cat_img_source": "liens vers mon image"
 		},
 		{
-			"type": "b",
+			"ref": "b",
 			"category": "contact",
 			"cat_title": "contacts",
 			"cat_description": "Permettez de vous contacter",
