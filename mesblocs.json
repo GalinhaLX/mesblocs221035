@@ -1,0 +1,18 @@
+{
+	"blocs": [
+		{
+			"cat_ref": "hero1",
+			"cat_category": "attract",
+			"cat_title": "titre",
+			"cat_description": "une image qui occupe entièrement l'écran, pour une visibilité maximale",
+			"cat_img_source": "liens vers mon image"
+		},
+		{
+			"cat_ref": "contact1",
+			"cat_category": "contact",
+			"cat_title": "contacts",
+			"cat_description": "Permettez de vous contacter",
+			"cat_img_source": "url de mon image"
+		}
+	]
+}
