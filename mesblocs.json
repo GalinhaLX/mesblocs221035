@@ -3,6 +3,7 @@
 		{
 			"ref": "a",
 			"category": "attract",
+			"tpl":"WORK-BULMA-MAVO-includeTpl2.js",
 			"cat_title": "titre",
 			"cat_description": "une image qui occupe entièrement l'écran, pour une visibilité maximale",
 			"cat_img_source": "liens vers mon image"
@@ -10,6 +11,7 @@
 		{
 			"ref": "b",
 			"category": "contact",
+			"tpl":"WORK-BULMA-MAVO-includeTpl.js",
 			"cat_title": "contacts",
 			"cat_description": "Permettez de vous contacter",
 			"cat_img_source": "url de mon image"
